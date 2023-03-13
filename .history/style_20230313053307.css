@@ -1,0 +1,9 @@
+#logo1 {
+  position: absolute;
+  width: 105px;
+  height: 44px;
+  left: 81px;
+  top: 31px;
+
+  background: url(logo.png);
+}
